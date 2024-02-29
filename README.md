@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+Mi nombre es Juan Jose Hincapie Tascon y soy estudiete de Ing. sistemas
+Universidad del valle.
+
 <!--
 **JuanHincapie86/JuanHincapie86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
