@@ -2,7 +2,7 @@
 
 
 
-Mi nombre es Juan Jose Hincapie Tascon y soy estudiete de Ing. sistemas
+Mi nombre es Juan Jose Hincapie Tascon y soy estudiete de Ing. sistemas.
 Universidad del valle.
 
 <!--
