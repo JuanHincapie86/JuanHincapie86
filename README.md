@@ -2,9 +2,9 @@
 
 
 
-### Mi nombre es Juan Jose Hincapie Tascon y soy estudiante de Ing. sistemas.
-### Universidad del valle.
-### Mi lenguaje favorito es Python 🐍 
+## Mi nombre es Juan Jose Hincapie Tascon y soy estudiante de Ing. sistemas.
+## Universidad del valle.
+## Mi lenguaje favorito es Python 🐍 
 
 <!--
 **JuanHincapie86/JuanHincapie86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
