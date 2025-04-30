@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Mi nombre es Juan Jose Hincapie Tascon y soy estudiante de Ing. sistemas.
+
 Universidad del valle.
+
 Mi lenguaje favorito es Python 🐍 
 
 <!--
