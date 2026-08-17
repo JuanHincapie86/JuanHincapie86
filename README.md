@@ -25,11 +25,11 @@
 
 ### 💻 Lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,typescript,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,typescript)](https://skillicons.dev)
 
 ### 🌐 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,css)](https://skillicons.dev)
 
 ### ⚙️ Backend
 
@@ -37,7 +37,7 @@
 
 ### 🗄️ Bases de datos
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,firebase)](https://skillicons.dev)
 
 ### 🛠️ Herramientas
 
