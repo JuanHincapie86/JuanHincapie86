@@ -45,37 +45,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🛒 Tienda Virtual
-
-Aplicación de comercio electrónico desarrollada con tecnologías modernas.
-
-
----
-
-### 📱 PartyFinder
-
-Aplicación Android para encontrar eventos, restaurantes y diferentes actividades.
-
-
----
-
-### 🚦 Alert Vial
-
-Aplicación web para visualizar y reportar accidentes utilizando mapas y datos geográficos.
-
-
-
----
-
-### 🎟️ VivaEventos
-
-Sistema basado en una arquitectura de microservicios para la gestión de eventos, tickets, órdenes y pagos.
-
-
----
-
 ## 📫 Contacto
 
 <div align="center">
