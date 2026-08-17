@@ -74,29 +74,6 @@ Aplicación web para visualizar y reportar accidentes utilizando mapas y datos g
 Sistema basado en una arquitectura de microservicios para la gestión de eventos, tickets, órdenes y pagos.
 
 
-
----
-
-
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanHincapie86&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌱 Actualmente aprendiendo
-
-[![Learning](https://skillicons.dev/icons?i=react,typescript,supabase,docker,spring)](https://skillicons.dev)
-
-Estoy enfocado en mejorar mis conocimientos de **desarrollo Full Stack**, arquitectura de software, bases de datos y desarrollo de aplicaciones.
-
 ---
 
 ## 📫 Contacto
