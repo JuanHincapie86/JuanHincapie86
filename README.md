@@ -1,10 +1,10 @@
 # 👋 Hola, soy Juan José Hincapié
 
-🎓 **Estudiante de Ingeniería de Sistemas** en la Universidad del Valle.
+ **Estudiante de Ingeniería de Sistemas** en la Universidad del Valle.
 
-💻 Me interesa el desarrollo de software, aplicaciones web, aplicaciones móviles y backend.
+ Me interesa el desarrollo de software, aplicaciones web, aplicaciones móviles y backend.
 
-🚀 Actualmente estoy aprendiendo y construyendo proyectos utilizando diferentes tecnologías.
+ Actualmente estoy aprendiendo y construyendo proyectos utilizando diferentes tecnologías.
 
 ---
 
@@ -57,6 +57,6 @@
 
 <div align="center">
 
-### 🚀 "Construyendo proyectos, aprendiendo constantemente."
+###  "Construyendo proyectos, aprendiendo constantemente."
 
 </div>
