@@ -51,9 +51,6 @@
 
 Aplicación de comercio electrónico desarrollada con tecnologías modernas.
 
-**Tecnologías:**
-
-[![Tech](https://skillicons.dev/icons?i=react,typescript,tailwind,supabase)](https://skillicons.dev)
 
 ---
 
@@ -61,9 +58,6 @@ Aplicación de comercio electrónico desarrollada con tecnologías modernas.
 
 Aplicación Android para encontrar eventos, restaurantes y diferentes actividades.
 
-**Tecnologías:**
-
-[![Tech](https://skillicons.dev/icons?i=kotlin,firebase,androidstudio)](https://skillicons.dev)
 
 ---
 
@@ -71,9 +65,7 @@ Aplicación Android para encontrar eventos, restaurantes y diferentes actividade
 
 Aplicación web para visualizar y reportar accidentes utilizando mapas y datos geográficos.
 
-**Tecnologías:**
 
-[![Tech](https://skillicons.dev/icons?i=python,flask,html,css,javascript)](https://skillicons.dev)
 
 ---
 
@@ -81,21 +73,11 @@ Aplicación web para visualizar y reportar accidentes utilizando mapas y datos g
 
 Sistema basado en una arquitectura de microservicios para la gestión de eventos, tickets, órdenes y pagos.
 
-**Tecnologías:**
 
-[![Tech](https://skillicons.dev/icons?i=java,spring,docker)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JuanHincapie86&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHincapie86&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
