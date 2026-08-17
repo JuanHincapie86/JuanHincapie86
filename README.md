@@ -41,7 +41,7 @@
 
 ### 🛠️ Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,ubuntu)](https://skillicons.dev)
 
 ---
 
