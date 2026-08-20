@@ -29,7 +29,7 @@
 
 ### 🌐 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
 ### ⚙️ Backend
 
@@ -41,7 +41,7 @@
 
 ### 🛠️ Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,figma)](https://skillicons.dev)
 
 ---
 
