@@ -25,7 +25,7 @@
 
 ### 💻 Lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,typescript,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,typescript)](https://skillicons.dev)
 
 ### 🌐 Frontend
 
