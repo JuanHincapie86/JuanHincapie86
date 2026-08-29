@@ -29,7 +29,7 @@
 
 ### 🌐 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind, flet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,flet)](https://skillicons.dev)
 
 ### ⚙️ Backend
 
